@@ -5,7 +5,7 @@
 <div style="text-align:center">
 <img
     height="400"
-    width="900"
+    width="500"
     alt="serverless"
    src="https://res.cloudinary.com/dtnhtcwwg/image/upload/v1587531494/template1-designer_pgg3kg.png"
   />
@@ -23,6 +23,15 @@
 - [x] Intsall Node js `npm init`
 - [x] Install devdependencies **express** and **serverless-http**
 - [x] Deploy to AWS and cli `sls deploy`
+
+### Usage
+
+```sh
+$ npm install
+
+$ npm run start
+
+```
 
 ## Urls
 
